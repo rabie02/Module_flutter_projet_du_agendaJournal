@@ -1,0 +1,252 @@
+{
+   "checksum": "48691db0bbe1a7d7bc0046b76a2b2c97",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13356498828396857",
+            "date_last_used": "0",
+            "guid": "ce7d5a0c-3ff9-42b4-8cb0-900b2f326c7d",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Cahier des charges",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/HP/OneDrive/Bureau/Projet%20JEE%20spring/CAHIERCHARGE.html",
+            "visit_count": 0
+         } ],
+         "date_added": "13379695869855179",
+         "date_last_used": "0",
+         "date_modified": "13356498828396857",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barre des favoris",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13364915555495887",
+            "date_last_used": "0",
+            "guid": "f6321dde-4254-4558-981f-361498082c21",
+            "id": "6",
+            "name": "Courrier - Rabie Outkidout - Outlook",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://outlook.office365.com/mail/",
+            "visit_count": 0
+         }, {
+            "date_added": "13364922107866095",
+            "date_last_used": "0",
+            "guid": "8de856bf-55af-4c8c-a271-2b7a811ea09f",
+            "id": "7",
+            "name": "YouTube Music",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://music.youtube.com/paid_memberships",
+            "visit_count": 0
+         }, {
+            "date_added": "13365093041266351",
+            "date_last_used": "0",
+            "guid": "2daaf39e-2c79-4ded-897c-921c42973a5c",
+            "id": "8",
+            "name": "ServiceNow Study Content by SNX V1.0 - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/u/0/d/11eTQWiLtAQt2O8_W_epsmW0eh1uaLFiWnaCZjhjFHYs/htmlview?pli=1",
+            "visit_count": 0
+         }, {
+            "date_added": "13365698114585451",
+            "date_last_used": "0",
+            "guid": "0a5b8a27-601e-40de-9beb-0a3601c62d7e",
+            "id": "9",
+            "name": "MetaMask",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#onboarding/welcome",
+            "visit_count": 0
+         }, {
+            "date_added": "13369076808322175",
+            "date_last_used": "0",
+            "guid": "2ffae47f-d764-4153-b26e-7ade56575278",
+            "id": "10",
+            "name": "TP1_Interface_Utilisateur - Google Docs",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1wB7vNX2L4d-HYzG9AyKIWv4zOs4p3VtCjh_Kp3Uubcw/edit?hl=fr",
+            "visit_count": 0
+         }, {
+            "date_added": "13369803908588084",
+            "date_last_used": "0",
+            "guid": "f3de3c75-7947-434b-afa4-c098c720e556",
+            "id": "11",
+            "name": "Releases · microsoftarchive/redis",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/microsoftarchive/redis/releases",
+            "visit_count": 0
+         }, {
+            "date_added": "13370578575654894",
+            "date_last_used": "0",
+            "guid": "2c84f16c-536d-412e-b66a-66c0677a3f2c",
+            "id": "12",
+            "name": "Instagantt",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://app.instagantt.com/r/#projects/otsE3yMAR8m0G34c5bXH/otsE3yMAR8m0G34c5bXH",
+            "visit_count": 0
+         }, {
+            "date_added": "13371084302713479",
+            "date_last_used": "0",
+            "guid": "bbff261a-67c2-4743-9384-24d3ffc3d17d",
+            "id": "13",
+            "name": "mvp-dpe/plots/confusion_matrix_baseline_mean.png at main · codeworks-data/mvp-dpe · GitHub",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/codeworks-data/mvp-dpe/blob/main/plots/confusion_matrix_baseline_mean.png",
+            "visit_count": 0
+         }, {
+            "date_added": "13372471336610594",
+            "date_last_used": "0",
+            "guid": "70fda0c1-7194-4391-9a47-03022e71370c",
+            "id": "14",
+            "name": "shahid.mbc.net/fr",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://shahid.mbc.net/fr",
+            "visit_count": 0
+         }, {
+            "date_added": "13372726213360452",
+            "date_last_used": "0",
+            "guid": "3b25e817-14d4-46bf-8264-65aa9e9589a7",
+            "id": "15",
+            "name": "EMSI/5IIR at master · CeIIardoor/EMSI · GitHub",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/CeIIardoor/EMSI/tree/master/5IIR",
+            "visit_count": 0
+         }, {
+            "date_added": "13373330136867917",
+            "date_last_used": "0",
+            "guid": "379810a5-a796-4228-a500-397a4280150c",
+            "id": "16",
+            "name": "Offre stage pfe : technologies du web – Rabat, Itelsys",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.emplois.co/offre-stage-pfe-technologies-du-web-rabat-itelsys#google_vignette",
+            "visit_count": 0
+         }, {
+            "date_added": "13373330138907811",
+            "date_last_used": "0",
+            "guid": "270db7bc-8a5a-4492-a058-cd9e5259c45c",
+            "id": "17",
+            "name": "Offre stage pfe : technologies du web – Rabat, Itelsys",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.emplois.co/offre-stage-pfe-technologies-du-web-rabat-itelsys",
+            "visit_count": 0
+         }, {
+            "date_added": "13373760279993125",
+            "date_last_used": "0",
+            "guid": "05173856-8e47-40d6-9ac5-9d120bf2ed00",
+            "id": "18",
+            "name": "(24) Webinar | Intelligent Customer Service With ServiceNow Customer Service Management - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=KBJ6kMIQaTs&list=PL7bsB05C6vkqji4gz-6ELD-uHR4W2Xy06",
+            "visit_count": 0
+         }, {
+            "date_added": "13373810067205897",
+            "date_last_used": "0",
+            "guid": "628fd6dd-f010-4c36-a3a9-3c62d1442dc6",
+            "id": "19",
+            "name": "ChatGPT",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chatgpt.com/c/67138f63-3010-800d-8d16-74e5fa765ea3",
+            "visit_count": 0
+         }, {
+            "date_added": "13373914530074660",
+            "date_last_used": "0",
+            "guid": "665dc3b0-219b-47c9-86d8-965d36f4c6d0",
+            "id": "20",
+            "name": "Introduction au Roborock : La technologie au service du nettoyage intelligent - Napkin AI",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://app.napkin.ai/page/CgoiCHByb2Qtb25lEiwKBFBhZ2UaJGY4ZjFmMjhmLThkMzUtNDNiOS1iYjQzLWI2ZWE5M2Y0NWM2OQ",
+            "visit_count": 0
+         }, {
+            "date_added": "13374030536273723",
+            "date_last_used": "0",
+            "guid": "749efcc7-8c8a-4e60-b1e8-a2f9dcea222b",
+            "id": "21",
+            "name": "napkin",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://app.napkin.ai/page/CgoiCHByb2Qtb25lEiwKBFBhZ2UaJGQyZDQwZWY4LWU4NzktNDIyOS04ZGExLWNmZTY0OWIzYjdmYQ",
+            "visit_count": 0
+         }, {
+            "date_added": "13374110703983653",
+            "date_last_used": "0",
+            "guid": "9aa9699c-c2d6-4379-b7a1-57c59512a060",
+            "id": "22",
+            "name": "CSM - Google Docs",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1JDFY9GBcOF4JrJCrZxdtrfoCFCcQB1BhG6shMuH6pKc/edit?pli=1&tab=t.0",
+            "visit_count": 0
+         }, {
+            "date_added": "13374681132228302",
+            "date_last_used": "0",
+            "guid": "019a1038-8503-4988-9dd6-28a2ad0b74fa",
+            "id": "23",
+            "name": "Boîte de réception (51) - outkidoutrabie8@gmail.com - Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/?pli=1#inbox?compose=new",
+            "visit_count": 0
+         } ],
+         "date_added": "13379695869855184",
+         "date_last_used": "0",
+         "date_modified": "13374681132228302",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Autres favoris",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13379695869855190",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoris de l’appareil mobile",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCKHlAwOUAQAAEgAqGFI1MkZQdjR1cGpUWlJ2SGI2czF0SWc9PUgDoAYMEq4BCBcSqQEKHFp1TnpDYlZoZlBiRXZnUCtVeElaNWxDdVdUcz0SJDAxOWExMDM4LTg1MDMtNDk4OC05ZGQ2LTI4YTJhZDBiNzRmYRgAIAAoADC4yaT1rTI4t86k9a0yQLfOpPWtMkocMDdYd3FGdEJrUHE2VkQ0VWY0Y2FBeWM4RmFFPVogIh7//lJtMTlUakVOSVhrKzkvT0xKQ0lvYzNwdWZhRT1lQu0LPsI+AmAFEq4BCBUSqQEKHGNrQnVGdE50aGJpOFB5ampTYlJndTVHbUhKdz0SJDc0OWVmY2M3LThjOGEtNGU2MC1iMWU4LWEyZjlkY2VhMjIyYhgAIAAoADC5yaT1rTI47M6k9a0yQOzOpPWtMkocbjlYYWs0eWRNbm9ha2xjZnBnRCtKUUNoTGtzPVogIh7/+2NTdlpvYXlYOWx2K3dUV2xGVkFOUzJBTU1Ecz1lSBF1JcI+AmAFEq4BCBMSqQEKHE1YMmpIU3FTdmhOeWlZNVo2ZHVJRUdzODR0VT0SJDYyOGZkNmRkLWYwMTAtNGMzNi1hM2E5LTNjNjJkMTQ0MmRjNhgAIAAoADDFyaT1rTI4ktWk9a0yQJLVpPWtMkocRlAyckIzL21FTllWTkVDNnRQTVNtZFkxUFlNPVogIh7/7XZLMVVnWE1TZWFlUWpDR3doV1FtTGFPdmlKTT1lC2CaR8I+AmAFEq4BCBISqQEKHDUwVDV6MGxLWExiRkJvRlVSWFh3L0hkYlBmWT0SJDA1MTczODU2LThlNDctNDBkNi05YWM1LTlkMTIwYmYyZWQwMBgAIAAoADDAyaT1rTI42NKk9a0yQNjSpPWtMkocVDh3ZERhWENucFBlMnJOVE1TaEFiQ1plK0tJPVogIh7/20tibTJ6aExNUStJQjRUSzlWUXlvTGNxMG9qUT1lGA5NMMI+AmAFEq4BCBESqQEKHExOSEh0SkxuR3ZmMVJsZ2pja05rOHBYTjN6dz0SJDI3MGRiN2JjLThhNWEtNDQ5Mi1hMDU4LWNkOWU1MjU5YzQ1YxgAIAAoADDByaT1rTI4gNOk9a0yQIDTpPWtMkocd0dvREZzS055Q0hRUFhXdVEzcW56UGNMYzRNPVogIh7/t1V1NHArVmNyQ2sxbnExU0lzbDcvNEVoTlZwQT1lR3JNe8I+AmAFEq4BCBYSqQEKHG03MEZPV1BxdUdhbmNocXVoMTRBQ1RZSlpFYz0SJDlhYTk2OTljLWMyZDYtNDM3OS1iN2ExLTU3YzU5NTEyYTA2MBgAIAAoADDEyaT1rTI4ltSk9a0yQJbUpPWtMkocS3NyY05BQ1lSZ0ttRVhGNUpyYjEyM0lnWEtBPVogIh7//XJZalNJVk5mSmprbmQxa1pMQzNIN3lSL1RoST1l2Pr/28I+AmAFEq0BCAwSqAEKHFMwd2tBMmtPc3ovdkZYVjJ3UVl5aForT0RNdz0SJDJjODRmMTZjLTUzNmQtNDEyZS1iNjZhLTY2YzA2NzdhM2YyYxgAIAAoADDDyaT1rTI449Ok9a0yQOPTpPWtMkocSzUwcS91QjZlSTJZQWFmVUQzSzJKZUFwQXFrPVofIh37aHA0QzFKWWhmdjAyZktGcm9FZ28rUFA3OVFZPWUcAe/nwj4CYAUSrAEIGBKnAQocTGhaNjU5Q0Vka0tXVTZTQkNVSTI2eXNrNktFPRIkY2U3ZDVhMGMtM2ZmOS00MmI0LThjYjAtOTAwYjJmMzI2YzdkGAAgACgAMNXBn+XpMTiLwp/l6TFAi8Kf5ekxShxvRkZYWVJQQ2NNRTBPaEJTKzlxbXhOVkpZY2c9Wh4iHEpxQ1QwcW5CNmpqUU1vSlJKTFd3QlVNQTVOZz1lAAAAAMI+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGFmYmFkZjdkLWM2MjMtNTE2OS1iOGY4LWYwZGM3YzNiMzY0YxgAIAAoADD5ubWv1C44xemp+uovQMXpqfrqL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKtAQgLEqgBChxGNnAxZUYrL0RUMkg5WGdBbXFWdVpITENCY1k9EiRmM2RlM2M3NS03OTQ3LTQzNGItYWZhNC1jMDk4YzcyMGU1NTYYACAAKAAwvMmk9a0yOOnQpPWtMkDp0KT1rTJKHG56WjRHVnBlV0N5ZmVRWE4wNXpWUmZaVEpWRT1aHyId9zBZMXozeDVjQjJSMWJwMDZlRExjK3JQVnp4MD1l+DorJcI+AmAFEq0BCBASqAEKHGZlZ0ZxT3hESTR1NXRZQnk3RXFlQlowNytlZz0SJDM3OTgxMGE1LWE3OTYtNDIyOC1hNTAwLTM5N2E0MjgwMTUwYxgAIAAoADDGyaT1rTI4vtWk9a0yQL7VpPWtMkocNWhJcjJEcjloMHJkNmJrb0hLMFZLSzV0S0FjPVofIh3/blBlWmZMTStsSDlKbEFjd3hGU21oMU5NNHJJPWVHck17wj4CYAUSrQEIChKoAQocTGhhME9SL0RVd0c3dThSWjJQQlVoS09YaUJFPRIkMmZmYWU0N2YtZDc2NC00MTUzLWIyNmUtN2FkZTU2NTc1Mjc4GAAgACgAMMLJpPWtMjiy06T1rTJAstOk9a0yShxIRVl3N3dUWU1Ieis3MnNXbVZyNFY4dWdvUlE9Wh8iHe5nVG1vTThQa0JWR0FsUktUWXBRRG9pWno4ckU9Zdj6/9vCPgJgBRKtAQgPEqgBChw5KzBHanM0T1kzSUtzMWF1VEFtUXNqUngrdFU9EiQzYjI1ZTgxNy0xNGQ0LTQ2YmYtODI2NC02NWFhOWU5NTg5YTcYACAAKAAwusmk9a0yOJLPpPWtMkCSz6T1rTJKHEhmZTBXdUJnZEoxTFZLdTBadEFESVJSRUxYOD1aHyId/1lmcms5VmNndFcvVFk5bU1sc0p3dlNsSlJqVT1l+DorJcI+AmAFEq0BCAkSqAEKHE43dTI1a29TNW53N2wxb0luMXg3SnhiRlhUTT0SJDBhNWI4YTI3LTYwMWUtNDBkZS05YmViLTBhMzYwMWM2MmQ3ZRgAIAAoADC3yaT1rTI44M2k9a0yQODNpPWtMkocNVNGa3VXbE9DWnl0N3JHOVZyZUlLU2pubUJrPVofIh3cSUF3ZUd3NUdNQ3l4MUJ1QjRSaElyV1NvLzNZPWUAAAAAwj4CYAUSrQEICBKoAQocVWdMRmtvVGZKeXpxeWppSnhHZFlSNVpINkI4PRIkMmRhYWYzOWUtMmM3OS00ZGVkLTg5N2MtOTIxYzQyOTczYTVjGAAgACgAMLvJpPWtMji+z6T1rTJAvs+k9a0yShxmemQ2ZENIbDVZeXRqb3N0ZFZnWmVlbDdML009Wh8iHbk5M0JMUFlyZFNKYkd2NWo2eFhEZm5ZcmtzMlk9ZQCoOQbCPgJgBRKtAQgOEqgBChxKTFNXc2lUbk9ZY1E2K0poUzNGS2VSR0ROWUE9EiQ3MGZkYTBjMS03MTk0LTQzOTEtOWE0Ny0wMzAyMmU3MTM3MGMYACAAKAAwv8mk9a0yOKvSpPWtMkCr0qT1rTJKHGxmalM2NzNkRHBISFVDZkgyM0RTRG4xbTRVQT1aHyId/jd3L0tJa05YRVFkUGpqdWp6ZkxrV3M0ZTBmaz1lSiTzRcI+AmAFEqwBCAYSpwEKHEk2UFcxeWh5eHVJNldaLzQxbGVFQUc3NW9Bbz0SJGY2MzIxZGRlLTQyNTQtNDU1OC05ODFmLTM2MTQ5ODA4MmMyMRgAIAAoADC+yaT1rTI40tGk9a0yQNLRpPWtMkocVUJKMmpoNWtqczVqUW1nYU5NOWNQWEMxT2NzPVoeIhxJR2xDKzJxWGpHWXM2QkpPQm4vVEZsN1RFdjg9ZfqLiWfCPgJgBRKuAQgUEqkBChw3ZFczMFVnSFRQWXpEQ21BTm1PVnBuTXdhTVk9EiQ2NjVkYzNiMC0yMTliLTQ3YzktODZkOC05NjVkMzZmNGM2ZDAYACAAKAAwtsmk9a0yOIrNpPWtMkCKzaT1rTJKHG5lNG05STRCSGdvTmR6RjJFeG5Qb1NxcHRwRT1aICIe//ZMeVRqcnowZ0s0a3BPSWhYRGQvSUU3ZkNzWkk9ZUgRdSXCPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ1NzU3MzAwNS1hNDE0LTUyYWQtOGVjYi1iMTljOGM5NjM3YzgYACAAKAAw+rm1r9QuOPTpqfrqL0D06an66i9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrAEIBxKnAQocL0FKWGN6TnFGTXluZDlUb0ViSmx4d0c2L2tFPRIkOGRlODU2YmYtNTVhZi00YzhjLWEyNzEtMmI3YTgxMWVhMDlmGAAgACgAMLXJpPWtMjjYzKT1rTJA2Myk9a0yShxKdTFMN1FGQlRmMVBWSmdRalhzelVQTm9pZ0E9Wh4iHHJGR1AyVldVQi8rY3dOYlNEM0ErRU9IV2c1ND1l9xhob8I+AmAFEq0BCA0SqAEKHEYwdDkwMmhEZlJyQ25QK05Lc2VWeUJ6aGhJTT0SJGJiZmYyNjFhLTY3YzItNDc0My05Mzg0LTI0ZDNmZmMzZDE3ZBgAIAAoADC9yaT1rTI4oNGk9a0yQKDRpPWtMkocNEdXbm84V2FlN2JFQlJXRVcwU21veWp6VFJrPVofIh39akJXNlRLR3B0RlVPOFhybDRZTUhOZC9rRTBZPWX4Oislwj4CYAUSjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkMDZiZjczZDAtYzhiMC01NGE2LWIyNGEtN2EwYTQ3MjMyY2I0GAAgACgAMP65ta/ULjjC6qn66i9Awuqp+uovShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
